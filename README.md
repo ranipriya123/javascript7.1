@@ -22,6 +22,40 @@ data type in js:-
   6. string:- string is a type of data type that can hold some character like name or words
   7. symbol:- in symbol we will get whole symbol as well as the value we get for the data type.
 
+  conditional statement injavascript :-
+
+  -  conditional statement are use to impliment some condition in code
+  - there are 3 type of condition statement in javascript
+  1. if condition
+   - if condition is true then statement is executed
+   -syntax:-
+   if(condition) {
+    statement
+   }
+    
+  2. if-else condition
+
+  - if the condition is true then if block is executed otherwise its terminated to else condition
+  - syntax :-
+   if(condition){
+    statement
+   }else{
+    statement
+   }
+
+  3. else-if condition:-
+
+  - 
+
+  -syntax:-
+  if(condition){
+    statement
+  }else if (condition){
+    statement
+  }else if(condition){
+    statement
+  }else{}
+
 
 
 
